@@ -9,6 +9,17 @@ const HeaderArea = styled.header`
     background-color: black;
     padding: 20px;
     margin-bottom: 70px;
+    border-bottom: 3px solid red;
+
+    @media(max-width: 520px) {
+        flex-direction: column;
+    }
+
+    @media(max-width: 300px) {
+        .links {
+            font-size: 1.2rem;
+        }
+    }
 
     div {
         display: flex;
@@ -47,7 +58,7 @@ export const Header = () => {
     return (
         <HeaderArea>
             <h1><span>AUTO</span> SHOPPING</h1>
-            <div>
+            <div className='links'>
                 <Link to="/" className={vitrineActive ? "active" : ""}>VITRINE</Link>
                 <Link to="/cart" className={cartActive ? "active" : ""}>FAVORITOS</Link>
             </div>
