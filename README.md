@@ -61,4 +61,4 @@ The page will reload if you make edits.
 
 # 
 [![linkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpvasques/)
-[![website](https://img.shields.io/badge/VASQUESJP-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://vasquesjp.github.io/)
+[![website](https://img.shields.io/badge/VASQUESJP-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://vasques.dev/)
