@@ -51,9 +51,13 @@
 
 # 🛠 Setup Instructions / Orientações para Executar
 
-- Installation: `npm install`
+- Download the project [HERE](https://github.com/jvasques/autoShopping/archive/refs/heads/main.zip)
 
-- In the project directory, you can run: `npm start`
+- Unzip the file
+
+- Install project dependencies: `npm install` or `yarn install`
+
+- In the project directory, you can run: `npm start` or `yarn start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
